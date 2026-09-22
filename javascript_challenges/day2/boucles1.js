@@ -1,6 +1,5 @@
 //challenge 1:
 let prompt= require('prompt-sync')()
-/*
 let N = prompt("enter le nonmbre N: ");
 
 nbr= prompt("Entez un nombre : ")
@@ -84,5 +83,4 @@ for(let i= 1; i<=NOMBRE; i++){
     N=N*i;
 }
 console.log(`${NOMBRE}! = ${N}`);
-*/
-//challenge 12:
+
